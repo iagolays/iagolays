@@ -22,6 +22,8 @@
 
 Son estudante de Enxeñaría Informática na USC, son fan do software libre e de frikadas de informática en xeral. Tamen me encanta facer deporte e a música!
 
+Aquí atoparedes os trozos de alma que me quita a carreira, asi que espero que vos sexan algo útiles. Falo algo de min, dos meus proxectos persoais e intentarei subir tanto apuntes como prácticas da carreira.
+
 ---
 
 ## 🛠️ Tecnoloxías que uso
@@ -70,6 +72,9 @@ Por ahora só teño un proxecto en funcionamento, esperemos que si a universidad
 Comparto os meus apuntes e resumos de cada materia para que poidan servir de axuda a outros estudantes. Non se garantiza que nada de aqui este perfecto nen moito menos. Recomendo unha lectura crítica de todo o aqui contido e valorar por un mesmo o que poda resultarche útil.
 
 Gran insperación en [Adrianql](https://github.com/adrianql5/adrianql5), faro interxeracional de coñecemento nesta carreira.
+
+Si sodes recien chegados ao mundo universitario, non vos agobiedes que ainda que vos peguedes a ostia ao principio, hai luz mais ala do tunel (por experiencia persoal).
+Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), calquer dúbida tedes o meu correo institucional arriba de todo.
 
 > **Por favor, le a política de uso antes de utilizalos.**
 
