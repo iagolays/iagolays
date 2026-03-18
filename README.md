@@ -228,5 +228,5 @@ Estes apuntes son creación propia e compártoos de forma libre baixo as seguint
 ---
 
 <p align="center">
-  <sub>Feito con 💙 dende Muros, Galicia (ceibe)</sub>
+  <sub>Feito con 💙 dende Muros, Galiza (ceibe)</sub>
 </p>
