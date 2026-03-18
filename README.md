@@ -69,7 +69,7 @@ Por ahora só teño un proxecto en funcionamento, esperemos que si a universidad
 
 Comparto os meus apuntes e resumos de cada materia para que poidan servir de axuda a outros estudantes. Non se garantiza que nada de aqui este perfecto nen moito menos. Recomendo unha lectura crítica de todo o aqui contido e valorar por un mesmo o que poda resultarche útil.
 
-Gran insperación en [Adrinql](https://github.com/Adrinql), faro interxeracional de coñecemento nesta carreira.
+Gran insperación en [Adrianql](https://github.com/Adrianql), faro interxeracional de coñecemento nesta carreira.
 
 > **Por favor, le a política de uso antes de utilizalos.**
 
