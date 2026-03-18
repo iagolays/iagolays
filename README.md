@@ -61,7 +61,7 @@ Por ahora só teño un proxecto en funcionamento, esperemos que si a universidad
 
 | Proxecto | Descrición |
 |---------|------------|
-| [**LevelUp-Tasks**](https://github.com/iagolays/LevelUp-Tasks) | 🎮 Aplicación de xestión de tarefas con sistema de niveis e recompensas |
+| [**LevelUp-Tasks**](https://github.com/iagolays/LevelUpTasks) | 🎮 Aplicación de xestión de tarefas con sistema de niveis e recompensas |
 
 ---
 
