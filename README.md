@@ -87,11 +87,11 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 | Materia | Repositorio |
 |--------|-------------|
-| <!-- Materia 1 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 2 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 3 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 4 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 5 --> _por engadir_ | _proximamente_ |
+| <!-- Materia 1 --> Álxebra | _proximamente_ |
+| <!-- Materia 2 --> Matemática Discreta | _proximamente_ |
+| <!-- Materia 3 --> Programación I | _proximamente_ |
+| <!-- Materia 4 --> Fundamentos de Matemáticas| _proximamente_ |
+| <!-- Materia 5 --> Sistemas Dixitais | _proximamente_ |
 
 </details>
 
@@ -100,11 +100,12 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 | Materia | Repositorio |
 |--------|-------------|
-| <!-- Materia 1 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 2 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 3 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 4 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 5 --> _por engadir_ | _proximamente_ |
+| <!-- Materia 1 --> Cálculo | _proximamente_ |
+| <!-- Materia 2 --> FutFi | _proximamente_ |
+| <!-- Materia 5 --> Programación II | _proximamente_ |
+| <!-- Materia 3 --> Estatística | _proximamente_ |
+| <!-- Materia 4 --> Fundamentos dos Computadores | _proximamente_ |
+
 
 </details>
 
@@ -117,11 +118,11 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 | Materia | Repositorio |
 |--------|-------------|
-| <!-- Materia 1 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 2 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 3 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 4 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 5 --> _por engadir_ | _proximamente_ |
+| <!-- Materia 1 --> Redes | _proximamente_ |
+| <!-- Materia 2 --> Sistemas Operativos I 💀 | _proximamente_ |
+| <!-- Materia 3 --> Programación Orientada a Obxetos | _proximamente_ |
+| <!-- Materia 4 --> Algortimos e Estructuras de Datos | _proximamente_ |
+| <!-- Materia 5 --> Bases de Datos I | _proximamente_ |
 
 </details>
 
@@ -130,11 +131,12 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 | Materia | Repositorio |
 |--------|-------------|
-| <!-- Materia 1 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 2 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 3 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 4 --> _por engadir_ | _proximamente_ |
-| <!-- Materia 5 --> _por engadir_ | _proximamente_ |
+| <!-- Materia 1 --> Deseño de Software | _proximamente_ |
+| <!-- Materia 2 --> Sistemas Operativos II | _proximamente_ |
+| <!-- Materia 3 --> Arquitectura de Computadores| _proximamente_ |
+| <!-- Materia 4 --> Computación Gráfica | _proximamente_ |
+| <!-- Materia 5 --> Bases de Datos II| _proximamente_ |
+| <!-- Materia 5 --> Xestión Financeira de Empresas | _proximamente_ |
 
 </details>
 
