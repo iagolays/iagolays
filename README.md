@@ -136,7 +136,7 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 | <!-- Materia 3 --> Arquitectura de Computadores| _proximamente_ |
 | <!-- Materia 4 --> Computación Gráfica | _proximamente_ |
 | <!-- Materia 5 --> Bases de Datos II| _proximamente_ |
-| <!-- Materia 5 --> Xestión Financeira de Empresas | _proximamente_ |
+| <!-- Materia 5 --> Xestión Financeira de Empresas |https://github.com/iagolays/XeFe|
 
 </details>
 
