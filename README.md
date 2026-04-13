@@ -22,6 +22,8 @@
 
 Son estudante de Enxeñaría Informática na USC, son fan do software libre e de frikadas de informática en xeral. Tamen me encanta facer deporte e a música!
 
+Participante no **Impacthon 2026**, onde o noso proxecto TouchGrass quedou **2º no reto GEM** 🥈
+
 Aquí atoparedes os trozos de alma que me quita a carreira, asi que espero que vos sexan algo útiles. Falo algo de min, dos meus proxectos persoais e intentarei subir tanto apuntes como prácticas da carreira.
 
 ---
@@ -59,11 +61,12 @@ Aquí atoparedes os trozos de alma que me quita a carreira, asi que espero que v
 
 ## 🚀 Proxectos persoais
 
-Por ahora só teño un proxecto en funcionamento, esperemos que si a universidade o permite esta sección creza.
+Estos proxectos non son aplicacións completamente desenvoltas!! Están en proceso e van evolucionando segundo a Universidade me/nos permite. Nos seus respectivos README.md atoparedes información sobre os participantes en cada proxecto, premios, características, intruccións, etc.
 
 | Proxecto | Descrición |
 |---------|------------|
 | [**LevelUp-Tasks**](https://github.com/iagolays/LevelUpTasks) | 🎮 Aplicación de xestión de tarefas con sistema de niveis e recompensas |
+| [**TouchGrass**](https://github.com/nuriaguerra/Impacthon) | 🌿 App de retos diarios físicos e mentais con competición entre amigos · 🥈 2º premio Impacthon 2026 |
 
 ---
 
