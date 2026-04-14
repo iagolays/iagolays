@@ -227,7 +227,7 @@ Estes apuntes son creación propia e compártoos de forma libre baixo as seguint
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iagolays&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iagolays&theme=tokyonight&hide_border=true&locale=es" width="48%" />
 </p>
 
