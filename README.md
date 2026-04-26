@@ -134,7 +134,7 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 | Materia | Repositorio |
 |--------|-------------|
-| <!-- Materia 1 --> Deseño de Software | _proximamente_ |
+| <!-- Materia 1 --> Deseño de Software | https://github.com/iagolays/Fok_ETSE/tree/main/DeSoft |
 | <!-- Materia 2 --> Sistemas Operativos II | _proximamente_ |
 | <!-- Materia 3 --> Arquitectura de Computadores| _proximamente_ |
 | <!-- Materia 4 --> Computación Gráfica | _proximamente_ |
