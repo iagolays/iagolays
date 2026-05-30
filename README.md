@@ -66,7 +66,7 @@ Estos proxectos non son aplicacións completamente desenvoltas!! Están en proce
 |---------|------------|
 | [**LevelUp-Tasks**](https://github.com/iagolays/LevelUpTasks) | 🎮 Aplicación de xestión de tarefas con sistema de niveis e recompensas |
 | [**TouchGrass**](https://github.com/nuriaguerra/Impacthon) | 🌿 App de retos diarios físicos e mentais con competición entre amigos · 🥈 2º premio Impacthon 2026 |
-| [**RogueTerra**](https://github.com/iagolays/rogueterra) | 🎮 Roguelike basado en League of Legends, combates por turnos y runs diferentes cada vez! |
+| [**RogueTerra**](https://github.com/iagolays/rogueterra) | 🎮 Roguelike basado en League of Legends, combates por turnos e runs diferentes cada vez! |
 
 ---
 
