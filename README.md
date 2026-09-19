@@ -83,7 +83,7 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 ---
 
-### 📅 1º Curso
+### 📅 1º Curso *(SUPERADO)*
 
 <details>
 <summary><b>1º Cuatrimestre</b></summary>
@@ -114,7 +114,7 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 ---
 
-### 📅 2º Curso *(en curso)*
+### 📅 2º Curso *(SUPERADO)*
 
 <details>
 <summary><b>1º Cuatrimestre</b></summary>
@@ -145,7 +145,7 @@ Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), ca
 
 ---
 
-### 📅 3º Curso *(próximamente)*
+### 📅 3º Curso *(en curso)*
 
 <details>
 <summary><b>1º Cuatrimestre</b></summary>
