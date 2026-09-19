@@ -79,7 +79,8 @@ Gran insperación en [Adrianql](https://github.com/adrianql5/adrianql5), faro in
 Si sodes recien chegados ao mundo universitario, non vos agobiedes que ainda que vos peguedes a ostia ao principio, hai luz mais ala do tunel (por experiencia persoal).
 Disfrutade da carreira e das actividades que vos ofrezan (e podades asistir), calquer dúbida tedes o meu correo institucional arriba de todo.
 
-> **Por favor, le a política de uso antes de utilizalos.**
+> **Empecei a intentar ter e ordear apuntes prácticamente a final de segundo asi que non hai moito subido, ainda asi algun dia subirei algo ssupoño.
+>Por favor, le a política de uso antes de utilizalos.**
 
 ---
 
