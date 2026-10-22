@@ -24,6 +24,8 @@ Son estudante de Enxeñaría Informática na USC, son fan do software libre e de
 
 Participante no **Impacthon 2026**, onde o noso proxecto TouchGrass quedou **2º no reto GEM** 🥈
 
+Participante no **Hackathon ETSE USC 2026** co equipo **ClosedAI**, onde desenvolvemos [**alarmaT**](https://github.com/Carolechu65/HackatonETSE-ClosedAI) ⏰: unha app para o piso compartido na que lle propós alarmas aos teus compañeiros e eles deciden se as aceptan.
+
 Aquí atoparedes os trozos de alma que me quita a carreira, asi que espero que vos sexan algo útiles. Falo algo de min, dos meus proxectos persoais e intentarei subir tanto apuntes como prácticas da carreira.
 
 ---
@@ -37,6 +39,8 @@ Aquí atoparedes os trozos de alma que me quita a carreira, asi que espero que v
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -65,6 +69,7 @@ Estos proxectos non son aplicacións completamente desenvoltas!! Están en proce
 | Proxecto | Descrición |
 |---------|------------|
 | [**LevelUp-Tasks**](https://github.com/iagolays/LevelUpTasks) | 🎮 Aplicación de xestión de tarefas con sistema de niveis e recompensas |
+| [**alarmaT**](https://github.com/Carolechu65/HackatonETSE-ClosedAI) | ⏰ App Android para o piso compartido: propós alarmas aos teus compañeiros e eles aceptan, rexeitan ou escollen outra hora. Tamén ten tarefas, gastos con lectura de tickets, widgets e asistente IA · Hackathon ETSE USC 2026 · [web](https://gex-dashboard.hopto.org/alarmat/) |
 | [**TouchGrass**](https://github.com/nuriaguerra/Impacthon) | 🌿 App de retos diarios físicos e mentais con competición entre amigos · 🥈 2º premio Impacthon 2026 |
 | [**RogueTerra**](https://github.com/iagolays/rogueterra) | 🎮 Roguelike basado en League of Legends, combates por turnos e runs diferentes cada vez! |
 
